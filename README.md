@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm Gonçalo 👋 
 
 <!--
 **whynotsanty/whynotsanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📊 GitHub Activity
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=whynotsanty&theme=chartreuse-dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=weekly&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
+[![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=whynotsanty&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages)](https://nice-readme.vercel.app/top-langs)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whynotsanty/whynotsanty/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whynotsanty/whynotsanty/pacman-output/pacman-contribution-graph.svg">
